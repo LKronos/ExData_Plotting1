@@ -1,6 +1,6 @@
-Below is the class project read me files.  One note I would like to add: 
+Below is the class project readME file.  One note I would like to add: 
 	NEED TO KNOW FOR the R Code to work. 
-* Downloaded file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip   to your hard drive, and unzip them into your working directory.   
+* Download file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip   to your hard drive, and unzip them into your working directory.   
 
 
 
